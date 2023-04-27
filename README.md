@@ -8,3 +8,6 @@ Latent Dirichlet Allocation (LDA) is one of the most popular topic modeling meth
 The data used for this analysis is a historical dataset containing 13,087 press releases from the Department of Justice's (DOJ) website https://www.justice.gov/news. The DOJ typically publishes several releases per day and this dataset spans from 2009 to July 2018. The releases contain information such as outcomes of criminal cases, notable actions taken against felons, or other updates about the current administration. This dataset only includes releases categorized as "Press release" and does not contain those which have been labeled as "Speeches". Some releases are tagged with topics or related agencies.
 
 The dataset can be found here: https://www.kaggle.com/datasets/jbencina/department-of-justice-20092018-press-releases 
+
+## Rendered Notebook
+View the rendered notebook on [nbviewer](https://nbviewer.org/github/kvstats/latent_dirichlet_allocation/blob/main/latent_dirichlet_allocation.ipynb).
